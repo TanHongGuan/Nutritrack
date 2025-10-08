@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A1_35100621_TanHongGuan</string>
+    <string name="title_activity_login_page">LoginPage</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_insights">Insights</string>
+    <string name="title_activity_insights_page">InsightsPage</string>
+    <string name="title_activity_questionnaire_page">QuestionnairePage</string>
+    <string name="title_activity_nutri_coach_page">NutriCoachPage</string>
+    <string name="title_activity_setting_page">SettingPage</string>
+    <string name="title_activity_hoome_page">HoomePage</string>
+    <string name="title_activity_insight_page">InsightPage</string>
+</resources>
