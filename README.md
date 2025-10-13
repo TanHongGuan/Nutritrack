@@ -2,4 +2,8 @@ This is a Mobile App Development Project, called NutriTrack.
 
 NutriTrack is built using Kotlin. 
 The main focus is to showcase proficiency in concepts in mobile application development.
-Concepts such as layout, padding, navigation, styling, GenAI API , CSV Reading, Login Page are applied in this project
+- Handle a database of users' login, 
+- record user's nutrition intake, 
+- retrieving fruit nutrition information via FruityVice API,
+- screen navigation and
+- serving input prompts to Gen AI to generate response to user screen
